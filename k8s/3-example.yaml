@@ -19,7 +19,7 @@ metadata:
 spec:
   ingressClassName: external-nginx
   rules:
-    - host: api.devopsbyexample.io
+    - host: api.bryson-tech.io
       http:
         paths:
           - path: /
